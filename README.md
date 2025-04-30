@@ -1,4 +1,4 @@
-# Learn Go Programming - Crush Code Like Harvey Specter 🕶️🔥
+# Learn Go Programming - Crush Code Like A Legend 🕶️🔥
 
 Welcome to the big leagues. This repo is your ticket to becoming a Go champion - no excuses, just results.
 
